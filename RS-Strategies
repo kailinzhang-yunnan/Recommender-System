@@ -1,0 +1,7 @@
+Recommender Systems are based on two strategies: 
+1. Content filtering 
+2. Collaborative filtering (based on past user behavior)
+
+Collaborative Filtering
+   may have cold start problem, can be divided into neighborhood methods and latent factor models; neighborhood methods have items/items and users/users
+   
